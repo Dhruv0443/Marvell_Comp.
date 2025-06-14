@@ -19,7 +19,7 @@ export default function Footer()
         </div>
         <div className='row'>
             <div className='name col-sm-12'>
-                 By : DHRUV JAIN (2110990443)
+                 By : SANIYA AHUJA (2210990787)
             </div>
         </div></div></footer></>
     );
